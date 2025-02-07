@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DynamicLayer Free</string>
+    <string name="des">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</string>
+    <string name="iconRight">iconRight</string>
+    <string name="iconleft">iconLeft</string>
+    <string name="input_field">Input Field</string>
+    <string name="primary">Primary</string>
+    <string name="secondary">Secondary</string>
+    <string name="state">State</string>
+    <string name="title">Title</string>
+    <string name="type">Type</string>
+    <style name="Theme.Components" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

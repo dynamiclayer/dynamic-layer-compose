@@ -1,0 +1,7 @@
+#Thu Feb 06 16:01:30 PKT 2025
+base.0=/Users/hussnain/FiverrProjects/DynamicLayer Free/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/hussnain/FiverrProjects/DynamicLayer Free/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,60 @@
+com.dynamiclayer.components.app-navigation-compose-2.8.5-0 /Users/hussnain/.gradle/caches/transforms-4/0638710ee84b2e28338b2050a9256aa0/transformed/navigation-compose-2.8.5/res
+com.dynamiclayer.components.app-core-1.13.1-1 /Users/hussnain/.gradle/caches/transforms-4/07bbac531ad29910235d3c9aec775fad/transformed/core-1.13.1/res
+com.dynamiclayer.components.app-activity-ktx-1.8.1-2 /Users/hussnain/.gradle/caches/transforms-4/093713851ace1d24d495c8fe69d61a41/transformed/activity-ktx-1.8.1/res
+com.dynamiclayer.components.app-ui-tooling-release-3 /Users/hussnain/.gradle/caches/transforms-4/0c6243e75da842e405a1f4cab6ee9cf8/transformed/ui-tooling-release/res
+com.dynamiclayer.components.app-ui-text-release-4 /Users/hussnain/.gradle/caches/transforms-4/0d31d654820271b80333aeb6bd0f285c/transformed/ui-text-release/res
+com.dynamiclayer.components.app-ui-unit-release-5 /Users/hussnain/.gradle/caches/transforms-4/0fb750d86b050815eea850239a8458ef/transformed/ui-unit-release/res
+com.dynamiclayer.components.app-lifecycle-runtime-ktx-release-6 /Users/hussnain/.gradle/caches/transforms-4/11218e180594e4d031862eeb6c79ee78/transformed/lifecycle-runtime-ktx-release/res
+com.dynamiclayer.components.app-core-runtime-2.2.0-7 /Users/hussnain/.gradle/caches/transforms-4/13b9bd5aab335533276fda4b08ec183f/transformed/core-runtime-2.2.0/res
+com.dynamiclayer.components.app-runtime-saveable-release-8 /Users/hussnain/.gradle/caches/transforms-4/27462d2e33e95b425135f98784e75f56/transformed/runtime-saveable-release/res
+com.dynamiclayer.components.app-annotation-experimental-1.4.1-9 /Users/hussnain/.gradle/caches/transforms-4/2a02edb4b39ec71d0c4144c0edf788d8/transformed/annotation-experimental-1.4.1/res
+com.dynamiclayer.components.app-material-icons-core-release-10 /Users/hussnain/.gradle/caches/transforms-4/2d3884929b2895f51afae5583b2be3da/transformed/material-icons-core-release/res
+com.dynamiclayer.components.app-compose-foundation-1.3.0-beta01-11 /Users/hussnain/.gradle/caches/transforms-4/316ee77032572200d1ea68cdee42ecef/transformed/compose-foundation-1.3.0-beta01/res
+com.dynamiclayer.components.app-customview-poolingcontainer-1.0.0-12 /Users/hussnain/.gradle/caches/transforms-4/328c8384e7340772f94b90d2ab06402b/transformed/customview-poolingcontainer-1.0.0/res
+com.dynamiclayer.components.app-material3-release-13 /Users/hussnain/.gradle/caches/transforms-4/3bef114b8c378f2b4ab695c457bddc35/transformed/material3-release/res
+com.dynamiclayer.components.app-navigation-common-ktx-2.8.5-14 /Users/hussnain/.gradle/caches/transforms-4/3da30d7d788b5c439f7f4d7b330c89be/transformed/navigation-common-ktx-2.8.5/res
+com.dynamiclayer.components.app-material-ripple-release-15 /Users/hussnain/.gradle/caches/transforms-4/3f3f2c5a1c6a729f84b24897e6193075/transformed/material-ripple-release/res
+com.dynamiclayer.components.app-ui-test-manifest-1.7.2-16 /Users/hussnain/.gradle/caches/transforms-4/47c4771425a6360b9b82b82cd53ea42a/transformed/ui-test-manifest-1.7.2/res
+com.dynamiclayer.components.app-animation-core-release-17 /Users/hussnain/.gradle/caches/transforms-4/490f0a161868d751d0208dd8671e78d9/transformed/animation-core-release/res
+com.dynamiclayer.components.app-lifecycle-viewmodel-compose-release-18 /Users/hussnain/.gradle/caches/transforms-4/560f1ac2b3ea39b170b03e597c81e8dc/transformed/lifecycle-viewmodel-compose-release/res
+com.dynamiclayer.components.app-lifecycle-livedata-core-2.8.3-19 /Users/hussnain/.gradle/caches/transforms-4/5818d95cedc3f811fa40a67b5b0ad4db/transformed/lifecycle-livedata-core-2.8.3/res
+com.dynamiclayer.components.app-lifecycle-viewmodel-ktx-2.8.3-20 /Users/hussnain/.gradle/caches/transforms-4/5d19883f7b10b01c77709aadab5dce50/transformed/lifecycle-viewmodel-ktx-2.8.3/res
+com.dynamiclayer.components.app-navigation-common-2.8.5-21 /Users/hussnain/.gradle/caches/transforms-4/6a94e3373a3b5632199c26ba81bf2086/transformed/navigation-common-2.8.5/res
+com.dynamiclayer.components.app-startup-runtime-1.1.1-22 /Users/hussnain/.gradle/caches/transforms-4/6c4f93d3c12702faa274653d5f9ddf7a/transformed/startup-runtime-1.1.1/res
+com.dynamiclayer.components.app-ui-release-23 /Users/hussnain/.gradle/caches/transforms-4/6f96cbca8577d709216fa9e6a5094949/transformed/ui-release/res
+com.dynamiclayer.components.app-runtime-release-24 /Users/hussnain/.gradle/caches/transforms-4/73b77abb64d2f0e91981be77e1944bb2/transformed/runtime-release/res
+com.dynamiclayer.components.app-navigation-runtime-ktx-2.8.5-25 /Users/hussnain/.gradle/caches/transforms-4/78b2b7a35b2ff5b8ff231de005faf5a5/transformed/navigation-runtime-ktx-2.8.5/res
+com.dynamiclayer.components.app-navigation-runtime-2.8.5-26 /Users/hussnain/.gradle/caches/transforms-4/7e8b39906c8288426e9eece7ddb08a09/transformed/navigation-runtime-2.8.5/res
+com.dynamiclayer.components.app-ui-util-release-27 /Users/hussnain/.gradle/caches/transforms-4/7fc750bab4aeef56695c7ea16ce7eb05/transformed/ui-util-release/res
+com.dynamiclayer.components.app-savedstate-ktx-1.2.1-28 /Users/hussnain/.gradle/caches/transforms-4/82f4df95bb23505f2ca93876c68b857a/transformed/savedstate-ktx-1.2.1/res
+com.dynamiclayer.components.app-core-ktx-1.13.1-29 /Users/hussnain/.gradle/caches/transforms-4/8355c7226bd1f0b723742e36f53e1514/transformed/core-ktx-1.13.1/res
+com.dynamiclayer.components.app-appcompat-resources-1.6.1-30 /Users/hussnain/.gradle/caches/transforms-4/8465b2b609ece0126c268f03119ad8e1/transformed/appcompat-resources-1.6.1/res
+com.dynamiclayer.components.app-lifecycle-viewmodel-release-31 /Users/hussnain/.gradle/caches/transforms-4/8cc2edcdf4627acec07d2f7b1be02a8f/transformed/lifecycle-viewmodel-release/res
+com.dynamiclayer.components.app-compose-material-core-1.3.0-beta01-32 /Users/hussnain/.gradle/caches/transforms-4/924c1556de33a21cce746230e982fbb5/transformed/compose-material-core-1.3.0-beta01/res
+com.dynamiclayer.components.app-coil-base-2.5.0-33 /Users/hussnain/.gradle/caches/transforms-4/98bd232ad14dca20ca17356461d31a72/transformed/coil-base-2.5.0/res
+com.dynamiclayer.components.app-ui-geometry-release-34 /Users/hussnain/.gradle/caches/transforms-4/9d53dec35d4c71cf4f8806a847d67db9/transformed/ui-geometry-release/res
+com.dynamiclayer.components.app-lifecycle-viewmodel-savedstate-2.8.3-35 /Users/hussnain/.gradle/caches/transforms-4/a4308303dcd53cd576294b4701d54db2/transformed/lifecycle-viewmodel-savedstate-2.8.3/res
+com.dynamiclayer.components.app-ui-tooling-preview-release-36 /Users/hussnain/.gradle/caches/transforms-4/a800c3529dfd5aaa07adda6a898c19fe/transformed/ui-tooling-preview-release/res
+com.dynamiclayer.components.app-savedstate-1.2.1-37 /Users/hussnain/.gradle/caches/transforms-4/aaf8ea5fd33cd3fdb12ad42323a0caa4/transformed/savedstate-1.2.1/res
+com.dynamiclayer.components.app-lifecycle-runtime-compose-release-38 /Users/hussnain/.gradle/caches/transforms-4/aeaf43935ccab33abfb4c849d1da02d5/transformed/lifecycle-runtime-compose-release/res
+com.dynamiclayer.components.app-activity-1.8.1-39 /Users/hussnain/.gradle/caches/transforms-4/aeb3a8f7e553c7ffde44aa7dabc4a273/transformed/activity-1.8.1/res
+com.dynamiclayer.components.app-emoji2-1.3.0-40 /Users/hussnain/.gradle/caches/transforms-4/b109fcc4943f5b7efcb803a46e891d43/transformed/emoji2-1.3.0/res
+com.dynamiclayer.components.app-material-release-41 /Users/hussnain/.gradle/caches/transforms-4/b6d609ddc700d6dd92550fe2972af76d/transformed/material-release/res
+com.dynamiclayer.components.app-foundation-release-42 /Users/hussnain/.gradle/caches/transforms-4/b81b7674c8b219f48e475879b644a6e8/transformed/foundation-release/res
+com.dynamiclayer.components.app-profileinstaller-1.3.1-43 /Users/hussnain/.gradle/caches/transforms-4/b9521be46125eb31a4993256b950f6de/transformed/profileinstaller-1.3.1/res
+com.dynamiclayer.components.app-graphics-path-1.0.1-44 /Users/hussnain/.gradle/caches/transforms-4/bf7e98e97b92919742e26d075421de8d/transformed/graphics-path-1.0.1/res
+com.dynamiclayer.components.app-ui-graphics-release-45 /Users/hussnain/.gradle/caches/transforms-4/c1fc969871f41f0166b80d79e8c5c386/transformed/ui-graphics-release/res
+com.dynamiclayer.components.app-ui-tooling-data-release-46 /Users/hussnain/.gradle/caches/transforms-4/c4d63897f7673f985aeb36648fdfce9c/transformed/ui-tooling-data-release/res
+com.dynamiclayer.components.app-foundation-layout-release-47 /Users/hussnain/.gradle/caches/transforms-4/cbaaf53f0a7daa7843b27580c300378d/transformed/foundation-layout-release/res
+com.dynamiclayer.components.app-lifecycle-process-2.8.3-48 /Users/hussnain/.gradle/caches/transforms-4/d43a90ace33427862a69d462b4f62a1d/transformed/lifecycle-process-2.8.3/res
+com.dynamiclayer.components.app-compose-material3-1.0.0-alpha15-49 /Users/hussnain/.gradle/caches/transforms-4/e5801e820f1fa55b2c59109eb4c39899/transformed/compose-material3-1.0.0-alpha15/res
+com.dynamiclayer.components.app-lifecycle-runtime-release-50 /Users/hussnain/.gradle/caches/transforms-4/e8ec98919a97eeb48878635a2d878559/transformed/lifecycle-runtime-release/res
+com.dynamiclayer.components.app-animation-release-51 /Users/hussnain/.gradle/caches/transforms-4/ed6aac6aa78801a024b3ed0a0fd29921/transformed/animation-release/res
+com.dynamiclayer.components.app-activity-compose-1.8.1-52 /Users/hussnain/.gradle/caches/transforms-4/feb4af702eb6fd81685fc36a8e1fb7e9/transformed/activity-compose-1.8.1/res
+com.dynamiclayer.components.app-relay-53 /Users/hussnain/FiverrProjects/DynamicLayer Free/app/build/generated/res/relay/debug
+com.dynamiclayer.components.app-resValues-54 /Users/hussnain/FiverrProjects/DynamicLayer Free/app/build/generated/res/resValues/debug
+com.dynamiclayer.components.app-packageDebugResources-55 /Users/hussnain/FiverrProjects/DynamicLayer Free/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.dynamiclayer.components.app-packageDebugResources-56 /Users/hussnain/FiverrProjects/DynamicLayer Free/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.dynamiclayer.components.app-debug-57 /Users/hussnain/FiverrProjects/DynamicLayer Free/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.dynamiclayer.components.app-debug-58 /Users/hussnain/FiverrProjects/DynamicLayer Free/app/src/debug/res
+com.dynamiclayer.components.app-main-59 /Users/hussnain/FiverrProjects/DynamicLayer Free/app/src/main/res

@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_warning.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_img_preview.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/img_preview.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_img_person.png.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/img_person.png"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_lock_close.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/lock_close.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_size.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_size.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable-small_ic_comment.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable-small/ic_comment.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_no_icons.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_no_icons.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_chat.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_notification_success.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_notification_success.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_shopping_cart.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/shopping_cart.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_profile.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/profile.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_favorite.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_badge_mark_arrow_up.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_badge_mark_arrow_up.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_input_success.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_input_success.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_coach_mark_arrow_up.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_coach_mark_arrow_up.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_cancel.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_input_info.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_input_info.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_dark_mode.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/dark_mode.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_send.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_check.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_standard.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_standard.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_none.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_none.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable-small_ic_heart.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable-small/ic_heart.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_start_icon.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_start_icon.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_notification_close.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_notification_close.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_mic.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_photo_camera.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/photo_camera.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_money.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/money.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_coach_mark_arrow_down.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_coach_mark_arrow_down.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_notification_info.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_notification_info.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_lock.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/lock.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_notification_error.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_notification_error.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_error.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_file_upload.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_file_upload.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_both_icons.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_both_icons.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_badge_mark_arrow_hr.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_badge_mark_arrow_hr.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_image.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/image.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_custom.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_custom.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_input_disabled.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_input_disabled.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_stars.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_stars.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_onboarding.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/onboarding.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_order_complete.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/order_complete.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_cross.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/cross.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/xml_backup_rules.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_input_search.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_input_search.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_search_.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_search_.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_search.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_settings.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_close_coach_mark.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_close_coach_mark.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_chevron_left.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/chevron_left.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_left_icon.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_left_icon.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_microphone.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/microphone.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_dynamiclayer.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_dynamiclayer.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_mailbox.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_mailbox.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_default.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_default.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_line_item_arrow.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_line_item_arrow.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_crop.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_crop.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_arrow_up_right.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/arrow_up_right.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_camera.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_badge.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_badge.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_expand.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_expand.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_bottom_sheet_add.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_bottom_sheet_add.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_coach_mark_arrow_left.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_coach_mark_arrow_left.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_coach_mark_arrow_right.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_coach_mark_arrow_right.xml"
+    },
+    {
+        "merged": "com.dynamiclayer.components.app-debug-58:/drawable_ic_notification_warning.xml.flat",
+        "source": "com.dynamiclayer.components.app-main-60:/drawable/ic_notification_warning.xml"
+    }
+]
